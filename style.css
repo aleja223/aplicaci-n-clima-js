@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #d9dba3;
+  background-color: #cdb0ac;
 }
 
 .contenedor {
@@ -8,12 +8,12 @@ body {
   margin: 0 auto;
   padding: 20px;
   text-align: center;
-  background-color: #b6bb21;
+  background-color: #1e7387;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-  color: #333333;
+  color: #ffffff;
 }
 
 input[type="text"] {
@@ -25,8 +25,8 @@ input[type="text"] {
 button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #4caf50;
-  color: #ffffff;
+  background-color: #cdb0ac;
+  color: #755465;
   border: none;
   cursor: pointer;
 }
